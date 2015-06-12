@@ -1,2 +1,2 @@
 # Tomachi_country
-とまちー国のGithub
+[[かっしー鯖>http://www60.atwiki.jp/kassimine/]] とまちー国のGithub
