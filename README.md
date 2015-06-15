@@ -3,6 +3,7 @@
 
 西とま範囲確定
 最南西端 X=866,Z=66
+最南東端 X=359 Z=140
 http://puu.sh/ipHSk/67f7cc50b5.jpg
 http://puu.sh/ipHVn/363b067225.jpg
 http://puu.sh/ipHXO/baf4a7ba13.jpg
