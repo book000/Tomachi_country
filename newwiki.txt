@@ -130,12 +130,8 @@ Wiki全面改装…？
 4.-441 66 -20近くにあるTomachi Radio 楽曲申請のチェストへ本を入れてください
 
 ----
-** Skype Group
-かっしー鯖Skypeグループへは以下のリンクから参加できます。
-(Skypeアプリの事前インストールが必要です。)
-[[ここ>http://nanostoy.hol.es/skype.php?mode=1]]
-----
 **土地申請について
+
 >土地申請は別ページで受け付けています。
 >範囲は周りの家を参考にしてください。
 [[土地申請はここから>http://tomachi.hol.es/minecraft/]]
