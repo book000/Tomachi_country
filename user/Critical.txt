@@ -16,4 +16,5 @@
 PINコード認証通過済み。  
 >http://puu.sh/mzMaK/747738aedf.jpg
 >http://puu.sh/mzMcm/4ac4a86204.jpg
-- 対応:GBanを予定。
+- 対応:GBan
+http://mcbans.com/ban/5525472
