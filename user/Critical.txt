@@ -8,7 +8,7 @@
 >理由:不明
 
 - 備考
-同IPにより同人物と判断。  
+同IPにより同一人物と判断。  
 [11:03:55] [Server thread/INFO]: com.mojang.authlib.GameProfile@da65cff[id=<null>,name=Critical,properties={},legacy=false] (/111.105.39.220:11189) lost connection: Disconnected  
 [11:05:17] [User Authenticator #41/INFO]: UUID of player Corran_Raisu is 9574fcf7-b153-4726-a382-ab68bdbf0ab1  
 [11:05:28] [Server thread/INFO]: Corran_Raisu[/153.176.42.147:47422] logged in with entity id 382514 at ([kassi-hp-tk]118.5, 64.0, 266.5)  
