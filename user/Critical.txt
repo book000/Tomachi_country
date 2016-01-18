@@ -1,0 +1,19 @@
+** Corran_Raisu,Critical
+- とまちー国西とまちー市一部破壊
+> 内容:
+> 西とまちー市入場口破壊
+> 時刻:2016/01/18 11:40頃
+>証拠:
+>http://puu.sh/mzMdE/57b8d9eb4b.jpg
+>理由:不明
+
+- 備考
+同IPにより同人物と判断。  
+[11:03:55] [Server thread/INFO]: com.mojang.authlib.GameProfile@da65cff[id=<null>,name=Critical,properties={},legacy=false] (/111.105.39.220:11189) lost connection: Disconnected  
+[11:05:17] [User Authenticator #41/INFO]: UUID of player Corran_Raisu is 9574fcf7-b153-4726-a382-ab68bdbf0ab1  
+[11:05:28] [Server thread/INFO]: Corran_Raisu[/153.176.42.147:47422] logged in with entity id 382514 at ([kassi-hp-tk]118.5, 64.0, 266.5)  
+[11:15:36] [Server thread/INFO]: Critical[/153.176.42.147:9332] logged in with entity id 386821 at ([kassi-hp-tk]111.5, 94.0, 262.5)  
+PINコード認証通過済み。  
+>http://puu.sh/mzMaK/747738aedf.jpg
+>http://puu.sh/mzMcm/4ac4a86204.jpg
+- 対応:GBanを予定。
