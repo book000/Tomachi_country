@@ -7,7 +7,7 @@
 > 理由:不明
 
 - 備考
-ログイン履歴 
+ログイン履歴
 |Name|UUID|IP|Port|JoinDate|
 |Nyemare|0014fa39-52e1-4c5f-8958-800cf0b3504f|42.147.32.125|62251|2016-01-29 07:00:55|
 |Nyemare|0014fa39-52e1-4c5f-8958-800cf0b3504f|42.147.32.125|62280|2016-01-29 07:01:54|
@@ -30,7 +30,7 @@
 |Nyemare|0014fa39-52e1-4c5f-8958-800cf0b3504f|218.41.61.152|11147|2016-01-29 07:21:59|
 |Klaviko|d6daf94f-1418-4f2c-9b93-744dedc71f4a|42.147.32.125|50884|2016-01-29 11:48:21|
 |Klaviko|d6daf94f-1418-4f2c-9b93-744dedc71f4a|42.147.32.125|50905|2016-01-29 11:48:48|
-218.41.61.152=>p293d98.tokynt01.ap.so-net.ne.jp (日本/東京都) http://www8.atwiki.jp/remotehost/pages/24.html 
-42.147.32.125 =>42-147-32-125.rev.home.ne.jp (日本/東京都) http://www8.atwiki.jp/remotehost/pages/8.html 
-途中IPを変えている模様 
- 
+218.41.61.152=>p293d98.tokynt01.ap.so-net.ne.jp (日本/東京都) http://www8.atwiki.jp/remotehost/pages/24.html
+42.147.32.125 =>42-147-32-125.rev.home.ne.jp (日本/東京都) http://www8.atwiki.jp/remotehost/pages/8.html
+途中IPを変えている模様
+
