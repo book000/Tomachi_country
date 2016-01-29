@@ -34,3 +34,7 @@
 42.147.32.125 =>42-147-32-125.rev.home.ne.jp (日本/東京都) http://www8.atwiki.jp/remotehost/pages/8.html
 途中IPを変えている模様
 
+- 対応:
+GBan(Nyemare):http://mcbans.com/ban/5528922
+LBan(Klaviko):http://mcbans.com/ban/5528923
+LBan(itzclay):http://mcbans.com/ban/5528924
