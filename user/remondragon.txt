@@ -6,5 +6,5 @@
 >http://puu.sh/mqvoP/8ff424f8eb.jpg
 
 - 対応
-仮Ban 
+PBan(無期限/相手の様子によって解除) 
 様子を見てGBanもしくはLBan実行予定
