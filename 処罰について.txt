@@ -18,3 +18,8 @@ MCBansでのLocalBanは評価値へは関係しないので管理者の判断で
 
 LocalBan(Minecraftの標準Ban)
 MCBansでのLocalBanとの同じ判断、基準で行う。
+
+ProvisionalBAN
+ProvisionalBanはPCAプラグインの提供するBan機能です。 
+このBanはGBanに今後するけどもスタッフが居ない為に出来ない時、スタッフが被Ban者の様子を見て判断する際に、再度荒らされてサーバーの負荷が高くならないように事前に仮のBanを行うものである。
+常連が軽い問題を起こした場合等に期限を決めて設定する場合が多い。
