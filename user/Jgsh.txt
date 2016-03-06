@@ -1,15 +1,20 @@
 * Jgsh
 - 避難鯖荒らし
-> 内容:
+** UserData
+*** UUID
+- Jgsh
+-- 90731f20-c97e-4d4d-a062-2ca2ba8330f4
+--- https://ja.namemc.com/s?90731f20-c97e-4d4d-a062-2ca2ba8330f4
+** 内容
 > 避難鯖にての荒らし
 > TNT使用
-> 備考:
+** 備考
 - 外国人？
 - 目の前でTNTを使って荒らしはじめた
-> 証拠:
+** 証拠
 > http://minesever.kassi-hp.info/gban/2016-03-05_21.43.01.png
-> 時刻:2016/03/05 21:44:34頃
-> 理由:不明
+** 時刻
+>2016/03/05 21:44:34頃
 
-- 対応:
+** 対応
 GBan(Jgsh):http://mcbans.com/ban/5538190
