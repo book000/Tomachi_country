@@ -1,14 +1,25 @@
 * Nyemare,klaviko,itzclay
 - 三福市初期リスポーン地点付近破壊
-> 内容:
-> 三福議事堂を含む大規模な破壊
+** UserData
+*** UUID
+- Nyemare
+-- 0014fa39-52e1-4c5f-8958-800cf0b3504f
+--- https://ja.namemc.com/s?0014fa39-52e1-4c5f-8958-800cf0b3504f
+- klaviko
+-- d6daf94f-1418-4f2c-9b93-744dedc71f4a
+--- https://ja.namemc.com/s?d6daf94f-1418-4f2c-9b93-744dedc71f4a
+- itzclay
+-- a37bffd5-e96b-4007-864a-3581dc040b25
+--- https://ja.namemc.com/s?a37bffd5-e96b-4007-864a-3581dc040b25
+** 内容
+- 三福議事堂を含む大規模な破壊
 > TNTを使用せずいっきに破壊を行っているためMODと予想
-> 証拠:
+** 証拠
 > http://minesever.kassi-hp.info/gban/2016_01_29_17.25.jpg
-> 時刻:2016/01/29 07:21頃
-> 理由:不明
+** 時刻
+2016/01/29 07:21頃
 
-- 備考
+** 備考
 ログイン履歴
 |Name|UUID|IP|Port|JoinDate|
 |Nyemare|0014fa39-52e1-4c5f-8958-800cf0b3504f|42.147.32.125|62251|2016-01-29 07:00:55|
@@ -36,7 +47,7 @@
 42.147.32.125 =>42-147-32-125.rev.home.ne.jp (日本/東京都) http://www8.atwiki.jp/remotehost/pages/8.html
 途中IPを変えている模様
 
-- 対応:
+** 対応
 GBan(Nyemare):http://mcbans.com/ban/5528922
 LBan(Klaviko):http://mcbans.com/ban/5528923
 LBan(itzclay):http://mcbans.com/ban/5528924
