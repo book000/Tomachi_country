@@ -1,7 +1,5 @@
 # とまちー市ルールブック
 
-近いうちに大幅改定もしくは移動予定。
-
 ## 更新情報
 [詳しい更新履歴](https://github.com/book000/Tomachi_country/commits/master/policy.md)
 - 2015/09/10 改定
