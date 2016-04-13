@@ -1,3 +1,3 @@
 # Tomachi_country
-
-しばらくお待ちくださいね
+なぜかTomachi Countryなのにとまちー市のGithubと化しました。  
+これからもよろしくお願いします。
