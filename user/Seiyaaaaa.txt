@@ -1,0 +1,20 @@
+* Seiyaaaaa
+- 帆下でのディスペンサーを利用した意図的な爆破 * 2
+- とまちー市での許可のない勝手な線路編集
+
+** 詳細
+- 帆下でのディスペンサーを利用した意図的な爆破 * 2
+証拠画像1(TNT爆破通知) http://puu.sh/pnHa3/8fd83f4961.jpg
+証拠画像2(TNT爆破通知) http://puu.sh/pnGMe/8b559aed30.jpg
+
+- とまちー市での許可のない勝手な線路編集
+証拠画像(CoreProtect) http://puu.sh/pnFXp/6cc6eebb8f.jpg
+
+とまちー市ルールブック(https://github.com/book000/Tomachi_country/blob/master/policy.md)
+「3. 当市の利用について」の「3-2. 編集」内、「線路の土地所有権は管理者とする。許可なく編集を行うことを禁じる。編集が必要な場合は要相談とする。」に違反
+
+ヒント: 謝って壊してしまった場合は管理部へ申し出るべきです。ルールでも定めています。
+https://jaoafa.xyz/rule
+
+** 対応
+警告後様子を見てpban, lbanを行う。
