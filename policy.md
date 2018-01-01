@@ -97,7 +97,7 @@
 
 #### GlobalBan(MCBans)
 MCBansでのGlobalBanについては本人の評価値に関わるため以下の条件を一つ以上クリアすることかつ管理者の判断によって実行する
-- Griefing(破壊) (6プロック以上/TNTによるものか手動によるものか問わない)
+- Griefing(破壊) (6ブロック以上/TNTによるものか手動によるものか問わない)
 - Spambot(プログラムと思われるもののみ)
 - Client side mods(不正なクライアントの使用/fly hack等)
 - その他不自然な行為
